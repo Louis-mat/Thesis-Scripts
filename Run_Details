@@ -7,14 +7,14 @@ A binary star simulator
 Go to https://compas.readthedocs.io/en/latest/index.html for the online documentation
 Check https://compas.readthedocs.io/en/latest/pages/whats-new.html to see what's new in the latest release
 
-Start generating binaries at Tue Nov 12 18:53:04 2024
+Start generating binaries at Fri Oct 25 13:59:37 2024
 
-Generated 250000 of 250000 binaries requested
+Generated 20000 of 20000 binaries requested
 
-End generating binaries at Tue Nov 12 20:40:27 2024
+End generating binaries at Fri Oct 25 14:18:01 2024
 
-Clock time = 6441.7 CPU seconds
-Wall time  = 0001:47:22 (hhhh:mm:ss)
+Clock time = 1103.2 CPU seconds
+Wall time  = 0000:18:23 (hhhh:mm:ss)
 
 
 COMMAND LINE OPTIONS
@@ -206,7 +206,7 @@ neutrino-mass-loss-BH-formation-value = 0.100000, DEFAULT_USED, DOUBLE
 neutron-star-equation-of-state = 'SSE', DEFAULT_USED, STRING
 notes = { }, DEFAULT_USED, VECTOR<STRING>
 notes-hdrs = { }, DEFAULT_USED, VECTOR<STRING>
-number-of-systems = 250000, USER_SUPPLIED, SIGNED
+number-of-systems = 20000, USER_SUPPLIED, SIGNED
 orbital-period = 0.100000, DEFAULT_USED, DOUBLE
 orbital-period-distribution = 'FLATINLOG', DEFAULT_USED, STRING
 orbital-period-max = 1000.000000, DEFAULT_USED, DOUBLE
@@ -270,5 +270,5 @@ OTHER PARAMETERS
 useFixedUK = FALSE, CALCULATED, BOOL
 fixedRandomSeed = FALSE, CALCULATED, BOOL
 actual-output-path = /home/louism/Thesis/data, CALCULATED, STRING
-actual-output-container = COMPAS_Output_14, CALCULATED, STRING
-actual-random-seed = 1731433984, CALCULATED, UNSIGNED_LONG
+actual-output-container = COMPAS_Output_13, CALCULATED, STRING
+actual-random-seed = 1729857577, CALCULATED, UNSIGNED_LONG
