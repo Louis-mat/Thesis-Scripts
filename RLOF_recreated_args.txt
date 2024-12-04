@@ -1,0 +1,1 @@
+--initial-mass-max 20.0 --initial-mass-min 1.0 --logfile-definitions 'logfile_specs_binary.txt' --switch-log 1
